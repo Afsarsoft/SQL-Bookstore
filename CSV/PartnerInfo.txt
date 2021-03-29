@@ -1,0 +1,4 @@
+PartnerID|Website|City|State|Country|Note
+1|www.microsoft.com|Redmond|WA|USA|TBD
+2|www.sony.com|Tokyo|N/A|Japan|TBD
+3|www.abcgame.com|Dallas|Texas|USA|TBD

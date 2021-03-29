@@ -1,0 +1,5 @@
+RetailerID|Name|Website|Address|City|Zip
+1|Costco|www.costco.com|TBD|Bellevue|98006
+2|Amazon|www.amazon.com|TBD|Seattle|98004
+3|Best Buy|www.bestbuy.com|TBD|TBD|TBD
+4|Target|www.trget.com|TBD|TBD|TBD

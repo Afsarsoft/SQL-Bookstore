@@ -1,0 +1,4 @@
+PartnerID|Name
+3|ABC Games
+1|Microsoft
+2|Sony

@@ -1,0 +1,4 @@
+TypeID|Name|Note
+1|Action|Action stuff
+2|Romantic|Romantic Stuff
+3|Kids Learning|Kids Learning

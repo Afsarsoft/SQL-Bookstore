@@ -1,0 +1,13 @@
+DiscountID|RetailerID|Name|MinQuantity|MaxQuantity|Amount
+1|1|Costco Low Order|100|1000|5
+2|1|Costco Mid Order|1000|10000|7
+3|1|Costco High Order|10000|100000|10
+4|2|Amazon Low Order|100|1000|2
+5|2|Amazon Mid Order|1000|10000|4
+6|2|Amazon High Order|10000|100000|6
+7|3|Best Buy Low Order|100|1000|3
+8|3|Best Buy Mid Order|1000|10000|5
+9|3|Best Buy High Order|10000|100000|7
+10|4|Target Low Order|100|1000|4
+11|4|Target Mid Order|1000|10000|5
+12|4|Target High Order|10000|100000|6
